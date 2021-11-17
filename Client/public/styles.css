@@ -1,0 +1,16 @@
+.login{
+    height: 70px;
+    width:300px;
+    border-style:none ;
+    border: 1px solid rgb(31, 25, 25);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    color:rgb(255, 255, 255);
+}
+
+.login:hover{
+    color:black
+    
+}
